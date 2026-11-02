@@ -2,13 +2,11 @@
 
 Senior software engineer focused on frontend architecture, with 10+ years of experience building large-scale web platforms in Germany. I work full-stack with Angular, NestJS and Next.js, and use AI-assisted development daily while staying in control of the result.
 
-## Core tech
+## Contact
 
-# Hi, I'm Yiannis 👋
+🌐 [stavgian.de](https://www.stavgian.de/en/) · 💼 [LinkedIn](https://www.linkedin.com/in/stavgian) · ✉️ stavgian@gmail.com
 
-Senior software engineer focused on frontend architecture, with 10+ years of experience building large-scale web platforms in Germany. I work full-stack with Angular, NestJS and Next.js, and use AI-assisted development daily while staying in control of the result.
 
-## Core tech
 
 [![Angular](https://img.shields.io/badge/Angular-333?style=flat-square&logo=angular&logoColor=white)](https://angular.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -27,11 +25,3 @@ Senior software engineer focused on frontend architecture, with 10+ years of exp
 [![Azure](https://img.shields.io/badge/Azure-333?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 [![AWS](https://img.shields.io/badge/AWS-333?style=flat-square)](https://aws.amazon.com)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-333?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-
-## Contact
-
-🌐 [stavgian.de](https://www.stavgian.de/en/) · 💼 [LinkedIn](https://www.linkedin.com/in/stavgian) · ✉️ stavgian@gmail.com
-
-## Contact
-
-🌐 [stavgian.de](https://www.stavgian.de/en/) · 💼 [LinkedIn](https://www.linkedin.com/in/stavgian) · ✉️ stavgian@gmail.com
